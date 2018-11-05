@@ -10,6 +10,7 @@
 
 ## Files
  * bin/check-redis-info.rb
+ * bin/check-redis-info-thresholds.rb
  * bin/check-redis-keys.rb
  * bin/check-redis-list-length.rb
  * bin/check-redis-memory.rb

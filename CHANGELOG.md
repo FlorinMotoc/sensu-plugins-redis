@@ -5,6 +5,8 @@ This CHANGELOG follows the format listed at [Our CHANGELOG Guidelines ](https://
 Which is based on [Keep A Changelog](http://keepachangelog.com/)
 
 ## [Unreleased]
+### Added
+- check-redis-info-thresholds.rb: checks redis info thresholds
 
 ## [3.0.1] - 2018-03-28
 ### Security
